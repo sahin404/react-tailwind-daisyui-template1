@@ -9,7 +9,10 @@ This is a complete boilerplate React project using:
 - 🧠 localforage, match-sorter, sort-by
 
 Anyone can clone this repo and start the project immediately.
-to cloning this project:
+Or can setup Manually.
+
+```bash
+To cloning this project:
 git clone https://github.com/your-username/your-repo-name.git
 cd your-repo-name
 npm install
@@ -18,11 +21,11 @@ npm run dev
 
 
 
-## 🛠️ Setup Instructions
+🛠️ Setup Instructions
 
-### 1️⃣ Create React Project (Vite + React)
+1️⃣ Create React Project (Vite + React)
 
-```bash
+
 npm create vite@latest name-of-your-project -- --template react
 cd name-of-your-project
 
